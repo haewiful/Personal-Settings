@@ -1,4 +1,3 @@
-cat ~/.vimrc
 set smartindent
 set number
 set mouse=a
